@@ -18,9 +18,9 @@ Click on provided links:
 ## Example of website
 Website can be viewed in a typical desktop web browser. Currently the site does not support smaller resolutions.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    
+![Screenshot](assets/images/screenshot.png)
+
 
 ## Credits
 Credit for this project goes to my instructor, teachers assistant, and fellow students in the DUbootcamp who provided the information and resources I needed to complete this task.
