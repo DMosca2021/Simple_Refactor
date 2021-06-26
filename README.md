@@ -1,7 +1,7 @@
 # <Devin's Week 1 Homework>
 
 ## Description
-This project was used to guage my understanding of semantic html and the importance of readability and accessibility for websites to be successful. By creating a website using semantic elements, search engines and other machines will have an easier time reading my websites so it can reach a larger end user group. 
+This project was used to guage my understanding of semantic html and the importance of readability and accessibility for websites to be successful. By creating a website using semantic elements, search engines and other machines will have an easier time reading my websites so it can reach a larger end user group. I also learned how to create a README.md file so users can understand the purpose of this project.
 
 ## Tasks completed
 - Viewed the source code
@@ -12,8 +12,8 @@ This project was used to guage my understanding of semantic html and the importa
 
 ## To view the website 
 Click on provided links:
-- [Deployed URL]()
-- [Repo URL]()
+- [Deployed URL](https://dmosca2021.github.io/dm-hwk-wk1-refactor/#social-media-marketing)
+- [Repo URL](https://github.com/DMosca2021/dm-hwk-wk1-refactor)
 
 ## Example of website
 Website can be viewed in a typical desktop web browser. Currently the site does not support smaller resolutions.
