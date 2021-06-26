@@ -12,8 +12,8 @@ This project was used to guage my understanding of semantic html and the importa
 
 ## To view the website 
 Click on provided links:
-
-
+- [Deployed URL]()
+- [Repo URL]()
 
 ## Example of website
 Website can be viewed in a typical desktop web browser. Currently the site does not support smaller resolutions.
@@ -24,3 +24,7 @@ Website can be viewed in a typical desktop web browser. Currently the site does 
 
 ## Credits
 Credit for this project goes to my instructor, teachers assistant, and fellow students in the DUbootcamp who provided the information and resources I needed to complete this task.
+
+- [Professional README guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+- [markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
+- [bulldogjob.com](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
