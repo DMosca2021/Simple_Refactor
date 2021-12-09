@@ -1,4 +1,4 @@
-# <Devin's Week 1 Homework>
+# Devin's Week 1 Homework
 
 ## Description
 This project was used to guage my understanding of semantic html and the importance of readability and accessibility for websites to be successful. By creating a website using semantic elements, search engines and other machines will have an easier time reading my websites so it can reach a larger end user group. I also learned how to create a README.md file so users can understand the purpose of this project.
